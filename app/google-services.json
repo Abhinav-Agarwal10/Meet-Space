@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742858666397",
+    "project_id": "meetspace-75e55",
+    "storage_bucket": "meetspace-75e55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742858666397:android:ed22851032dc95d0c07f74",
+        "android_client_info": {
+          "package_name": "com.trinetra.meetspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742858666397-4vtuqea1lrciihj6raucdmn1v91ri5p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdp861ZJ6E77z1OP5oB6SWwJxeM2qekQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742858666397-4vtuqea1lrciihj6raucdmn1v91ri5p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
