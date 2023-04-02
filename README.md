@@ -13,12 +13,14 @@ An Random video calling application which you can connect with Random person thr
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M1.jpg)
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M2.jpg)
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M3.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M1.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M4.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M2.jpg" width=300 height=600>
 
-![App Screenshot](https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M5.jpg)
+<img src = "https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M3.jpg" width=300 height=600>
+
+<img src = "https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M4.jpg" width=300 height=600>
+
+<img src = "https://github.com/Abhinav-Agarwal10/Meet-Space/blob/master/M5.jpg" width=300 height=600>
